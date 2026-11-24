@@ -48,3 +48,7 @@ All content, Hide NSFW (keep unknown), SFW only, NSFW only and Unclassified only
 See qc/REPORT.md and qc/live-matching-sample.json. Tests use synthetic accounts; no real account writes were performed. Run `npm test`, `node tests/matching-browser.mjs`, `node tests/browser.mjs`, `node tests/features.mjs`, and `node tests/content-browser.mjs` with Chrome installed. Optional MAPO_TEST_ZIP / MAPO_TEST_BACKUP environment variables point to private backup regression files; these are never bundled.
 
 Official references: https://docs.anilist.co/guide/rate-limiting , https://docs.anilist.co/guide/graphql/queries/media-list , https://docs.anilist.co/guide/auth/authorization-code , https://myanimelist.net/apiconfig/references/api/v2 .
+
+## Licence
+
+Copyright 2026 Mapo. Licensed under the Apache License, Version 2.0. See LICENSE.
