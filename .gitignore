@@ -1,0 +1,7 @@
+node_modules/
+qc/screenshots/
+*.log
+.local/
+release/
+.claude/
+.openai/

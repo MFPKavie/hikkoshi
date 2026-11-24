@@ -1,0 +1,10 @@
+{
+  "sampleSize": 20,
+  "total": 20,
+  "matched": 14,
+  "pending": 0,
+  "uncertain": 1,
+  "notFound": 5,
+  "errors": 0,
+  "scope": "Twenty evenly spaced entries from the supplied backup; title searches only, no account writes."
+}
